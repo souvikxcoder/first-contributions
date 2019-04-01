@@ -4,6 +4,7 @@
 - [unprosaic] (https://github.com/unprosaic)
 - [Kuanysh Seilkhanov]
 - [trysh]
+- [Souvik Dutta](https://github.com/souvikxcoder)
 - [creep1g] (https://github.com/creep1g)
 - [Ryan Marion]
 - [Tony Lopez]
